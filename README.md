@@ -5,7 +5,7 @@
 </p>
 
 # Bruna Ceruti
-Sou Engenheira por formação e tenho experiência de 8 anos no mercado de Oleo e Gás. Atuando nesse segmento, sempre fui muito interessada em estruturar e tornar processos mais eficientes e também aprender como eles funcionam, de forma aliada à tecnologia. Para mim o acesso a informação de todos dentro de uma organização é fundamental para tomada de decisões estratégicas acertadas e a área dados é uma ferramenta chave para levar a informação correta, precisa e de forma segura para os usuários e gestores da organização. 
+Sou Engenheira por formação e tenho experiência de 8 anos trabalhando no mercado de Oleo e Gás. Atuando nesse segmento, sempre fui muito interessada em estruturar e tornar processos mais eficientes e também aprender como eles funcionam, de forma aliada à tecnologia. Para mim o acesso a informação de todos dentro de uma organização é fundamental para tomada de decisões estratégicas acertadas e a área dados é uma ferramenta chave para levar a informação correta, precisa e de forma segura para os usuários e gestores da organização. 
 Meu principal objetivo é contribuir em projetos em diferentes áreas do conhecimento, aprendendendo sempre e conectando pessoas através da análise e engenharia de dados.
 
 **Links:**
