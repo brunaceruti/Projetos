@@ -21,4 +21,7 @@ Convido a você a se conectar comigo nas demais redes para acompanhar as minhas 
   * Artigo no Medium - https://bit.ly/3INmXAn
   * Dashboard - https://bit.ly/3AYyHNT
 
+* **Criando Dashboard a partir de dados obtidos com o Google Analytics**
+  * Artigo no Medium - https://bit.ly/3t4tBff
+  * Dashboard - https://bit.ly/3Bxf939
 ---
