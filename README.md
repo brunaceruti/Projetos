@@ -24,4 +24,9 @@ Convido a você a se conectar comigo nas demais redes para acompanhar as minhas 
 * **Criando Dashboard a partir de dados obtidos com o Google Analytics**
   * Artigo no Medium - https://bit.ly/3t4tBff
   * Dashboard - https://bit.ly/3Bxf939
+
+* **Análise de Dados e Machine Learning: Prevendo a Inadimplência de Clientes com ML**
+  * Artigo no Medium - https://bit.ly/3u9mZwD
+ 
+
 ---
