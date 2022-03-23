@@ -12,6 +12,7 @@ Meu principal objetivo é contribuir em projetos em diferentes áreas do conheci
 * [LinkedIn](https://www.linkedin.com/in/bruna-ceruti/)
 * [Medium](https://medium.com/@brunnagomess)
 * [Instagram](https://www.instagram.com/brunaceruti/)
+* [Site](https://brunaceruti.tech/)
 
 Convido a você a se conectar comigo nas demais redes para acompanhar as minhas publicações sobre a área de dados.
 
